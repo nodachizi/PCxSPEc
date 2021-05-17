@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,700&display=swap');
+
+
+.price{
+  position: relative;
+  bottom: 550px;
+  max-width: fit-content;
+  left: 1350px;
+  font-weight: 800;
+  font-family: 'Roboto', sans-serif;
+  
+ 
+   
+   
+}
+.info{
+    position: relative;
+    max-width: fit-content;
+    margin: 25px;
+    top:100px;
+    left: 70px;
+    font-weight: 800;
+    font-family: 'Roboto', sans-serif;
+    
+    
+   
+   
+    
+}
+.search{
+  position: relative;
+  bottom: 1000px;
+  margin:50px;
+  font-family: 'Roboto', sans-serif;
+}
+p{
+     background: -webkit-linear-gradient(#D9D9D9, #FFFFFF );
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+}
+d{
+    background: -webkit-linear-gradient(#D9D9D9, #FFFFFF );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.buttongropo{
+position: relative;
+margin: 25px;
+bottom: 325px;
+
+}
+.savepage{
+  position: relative;
+  margin: 25px;
+  bottom: 325px;
+}
+.STR{
+  position: relative;
+  bottom: 550px;
+  max-width: fit-content;
+  bottom: 340px;
+  font-weight: 800;
+  font-family: 'Roboto', sans-serif;
+  margin: 25px;
+}
+.str{
+  margin: 2px;
+}
+.RAM{
+  position: relative;
+  bottom: 550px;
+  max-width: fit-content;
+  bottom: 340px;
+  font-weight: 800;
+  font-family: 'Roboto', sans-serif;
+  margin: 25px;
+}
+.ram{
+  margin: 2px;
+}
+.CPU{
+  position: relative;
+  bottom: 550px;
+  max-width: fit-content;
+  bottom: 340px;
+  font-weight: 800;
+  font-family: 'Roboto', sans-serif;
+  margin: 25px;
+}
+.cpu{
+  margin:2px;
+}
+.GPU{
+  position: relative;
+  bottom: 550px;
+  max-width: fit-content;
+  bottom: 340px;
+  font-weight: 800;
+  font-family: 'Roboto', sans-serif;
+  margin: 25px;
+}
+.gpu{
+  margin:2px;
+}
+.MTB{
+  position: relative;
+  bottom: 550px;
+  max-width: fit-content;
+  bottom: 340px;
+  font-weight: 800;
+  font-family: 'Roboto', sans-serif;
+  margin: 25px;
+}
+.mtb{
+  margin: 1px;
+}
+.PSU{
+  position: relative;
+  bottom: 550px;
+  max-width: fit-content;
+  bottom: 340px;
+  font-weight: 800;
+  font-family: 'Roboto', sans-serif;
+  margin: 25px;
+}
+.psu{
+  margin: 1px;
+}
