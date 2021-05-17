@@ -79,6 +79,9 @@ export default function Hexpage({ session }) {
         case "wd" : items.push(
         <div className="one"><img src={wd} /></div>);
         break;
+        default : items.push(
+        <div className="one"><img src={CPU}/></div>
+          );
       }
     }
 
@@ -126,6 +129,9 @@ export default function Hexpage({ session }) {
         case "wd" : items.push(
         <div className="three"><img src={wd} /></div>);
         break;
+        default : items.push(
+        <div className="three"><img src={MB}/></div>
+          );
       }
     }
 
@@ -169,6 +175,9 @@ export default function Hexpage({ session }) {
         case "wd" : items.push(
         <div className="four"><img src={wd} /></div>);
         break;
+        default : items.push(
+        <div className="four"><img src={RAM}/></div>
+          );
       }
     }
 
@@ -212,6 +221,9 @@ export default function Hexpage({ session }) {
         case "wd" : items.push(
         <div className="five"><img src={wd} /></div>);
         break;
+        default : items.push(
+        <div className="five"><img src={PSU}/></div>
+          );
       }
     }
 
@@ -255,6 +267,9 @@ export default function Hexpage({ session }) {
         case "wd" : items.push(
         <div className="six"><img src={wd} /></div>);
         break;
+        default : items.push(
+        <div className="six"><img src={STR}/></div>
+          );
       }
     }
 
@@ -298,6 +313,9 @@ export default function Hexpage({ session }) {
         case "wd" : items.push(
         <div className="seven"><img src={wd} /></div>);
         break;
+        default : items.push(
+        <div className="seven"><img src={GPU}/></div>
+          );
       }
     }
 
