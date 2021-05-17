@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/PCxspec/static/css/main.a27c193d.chunk.css",
+    "main.js": "/PCxspec/static/js/main.0e128c54.chunk.js",
+    "main.js.map": "/PCxspec/static/js/main.0e128c54.chunk.js.map",
+    "runtime-main.js": "/PCxspec/static/js/runtime-main.cc924cf3.js",
+    "runtime-main.js.map": "/PCxspec/static/js/runtime-main.cc924cf3.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/PCxspec/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.adfecac1.chunk.js": "/PCxspec/static/js/2.adfecac1.chunk.js",
+    "static/js/2.adfecac1.chunk.js.map": "/PCxspec/static/js/2.adfecac1.chunk.js.map",
+    "index.html": "/PCxspec/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/PCxspec/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.a27c193d.chunk.css.map": "/PCxspec/static/css/main.a27c193d.chunk.css.map",
+    "static/js/2.adfecac1.chunk.js.LICENSE.txt": "/PCxspec/static/js/2.adfecac1.chunk.js.LICENSE.txt",
+    "static/media/WD.113c5ebb.png": "/PCxspec/static/media/WD.113c5ebb.png",
+    "static/media/amd.05ee88c8.png": "/PCxspec/static/media/amd.05ee88c8.png",
+    "static/media/asrock.599059db.png": "/PCxspec/static/media/asrock.599059db.png",
+    "static/media/corsair.236a6517.png": "/PCxspec/static/media/corsair.236a6517.png",
+    "static/media/intel.77aa5127.png": "/PCxspec/static/media/intel.77aa5127.png",
+    "static/media/kingston.e646d795.png": "/PCxspec/static/media/kingston.e646d795.png",
+    "static/media/ncase.70d2cc68.png": "/PCxspec/static/media/ncase.70d2cc68.png",
+    "static/media/ngpu.0439c64f.png": "/PCxspec/static/media/ngpu.0439c64f.png",
+    "static/media/nmtb.0537c0fb.png": "/PCxspec/static/media/nmtb.0537c0fb.png",
+    "static/media/npsu.d20774ba.png": "/PCxspec/static/media/npsu.d20774ba.png",
+    "static/media/nram.5d26773a.png": "/PCxspec/static/media/nram.5d26773a.png",
+    "static/media/nstr.5e49b883.png": "/PCxspec/static/media/nstr.5e49b883.png",
+    "static/media/panther.d0a92b7e.png": "/PCxspec/static/media/panther.d0a92b7e.png",
+    "static/media/samsung.a73291ec.png": "/PCxspec/static/media/samsung.a73291ec.png",
+    "static/media/ss.63d91785.png": "/PCxspec/static/media/ss.63d91785.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc924cf3.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.adfecac1.chunk.js",
+    "static/css/main.a27c193d.chunk.css",
+    "static/js/main.0e128c54.chunk.js"
+  ]
+}
