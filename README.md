@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# README
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Filename end with ".php ,.sql" is in the CMS part
 
 ## Available Scripts
 
